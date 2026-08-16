@@ -31,6 +31,10 @@ The public repository for this assignment is:
 
 **https://github.com/sayem4/software_project**
 
+Live site: **https://sayem4.github.io/software_project/**
+
+UI screenshots of the running app (homepage, menu, sign-in, reservations) are included in the Word report (`docs/git-evidence/ui-home.png`, `ui-menu.png`, `ui-auth.png`, `ui-reserve.png`).
+
 ---
 
 ## 2. Your workflow (how commits and branches were used)
