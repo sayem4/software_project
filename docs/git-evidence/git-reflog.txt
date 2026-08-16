@@ -1,10 +1,12 @@
-1c9a84e HEAD@{0}: merge practice/undo-recovery: Merge made by the 'ort' strategy.
-67f4658 HEAD@{1}: checkout: moving from practice/undo-recovery to main
-8300196 HEAD@{2}: commit: Document undo, reflog recovery, and safe revert
-8712897 HEAD@{3}: revert: Revert "WIP: accidental file added to demonstrate undo"
-261005b HEAD@{4}: reset: moving to 261005b7206bbb8c812ed2b1a267d14de95fe799
-67f4658 HEAD@{5}: reset: moving to HEAD~1
-261005b HEAD@{6}: commit: WIP: accidental file added to demonstrate undo
-67f4658 HEAD@{7}: checkout: moving from main to practice/undo-recovery
-67f4658 HEAD@{8}: commit: Fix GitHub Pages black screen by serving the compiled app
-0d76397 HEAD@{9}: clone: from https://github.com/sayem4/software_project.git
+a528fb7 HEAD@{0}: merge origin/main: Merge made by the 'ort' strategy.
+b6815cb HEAD@{1}: commit: Add Git workflow assignment report with live command evidence
+1c9a84e HEAD@{2}: merge practice/undo-recovery: Merge made by the 'ort' strategy.
+67f4658 HEAD@{3}: checkout: moving from practice/undo-recovery to main
+8300196 HEAD@{4}: commit: Document undo, reflog recovery, and safe revert
+8712897 HEAD@{5}: revert: Revert "WIP: accidental file added to demonstrate undo"
+261005b HEAD@{6}: reset: moving to 261005b7206bbb8c812ed2b1a267d14de95fe799
+67f4658 HEAD@{7}: reset: moving to HEAD~1
+261005b HEAD@{8}: commit: WIP: accidental file added to demonstrate undo
+67f4658 HEAD@{9}: checkout: moving from main to practice/undo-recovery
+67f4658 HEAD@{10}: commit: Fix GitHub Pages black screen by serving the compiled app
+0d76397 HEAD@{11}: clone: from https://github.com/sayem4/software_project.git

@@ -1,11 +1,18 @@
-*   1c9a84e (HEAD -> main) Merge practice/undo-recovery into main
+*   a528fb7 (HEAD -> main, origin/main, origin/HEAD) Merge origin/main before publishing assignment report
 |\  
-| * 8300196 (practice/undo-recovery) Document undo, reflog recovery, and safe revert
-| * 8712897 Revert "WIP: accidental file added to demonstrate undo"
-| * 261005b WIP: accidental file added to demonstrate undo
+| * 8e8e1ae Remove temporary write-access check file
+| * 07fcdd6 Fix black GitHub Pages site by serving the compiled app
+| * 2a04a8f perm check write
+* | b6815cb Add Git workflow assignment report with live command evidence
+* |   1c9a84e Merge practice/undo-recovery into main
+|\ \  
+| * | 8300196 (origin/practice/undo-recovery, practice/undo-recovery) Document undo, reflog recovery, and safe revert
+| * | 8712897 Revert "WIP: accidental file added to demonstrate undo"
+| * | 261005b WIP: accidental file added to demonstrate undo
+|/ /  
+* / 67f4658 (fork/main) Fix GitHub Pages black screen by serving the compiled app
 |/  
-* 67f4658 (fork/main) Fix GitHub Pages black screen by serving the compiled app
-* 0d76397 (tag: v1.0.0, origin/main, origin/HEAD) chore(release): 1.0.0
+* 0d76397 (tag: v1.0.0) chore(release): 1.0.0
 * 8ec11f6 Document complete blank page root cause and all fixes
 * 9f9c940 Add comprehensive error handling and loading states
 * 4d5c673 Critical fix: Allow app to render without Supabase data
