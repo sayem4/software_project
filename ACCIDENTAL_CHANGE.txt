@@ -1,2 +1,0 @@
-This file was added by mistake to demonstrate Git undo and recovery.
-It must not remain in the released project.
