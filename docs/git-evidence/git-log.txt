@@ -1,0 +1,38 @@
+*   1c9a84e (HEAD -> main) Merge practice/undo-recovery into main
+|\  
+| * 8300196 (practice/undo-recovery) Document undo, reflog recovery, and safe revert
+| * 8712897 Revert "WIP: accidental file added to demonstrate undo"
+| * 261005b WIP: accidental file added to demonstrate undo
+|/  
+* 67f4658 (fork/main) Fix GitHub Pages black screen by serving the compiled app
+* 0d76397 (tag: v1.0.0, origin/main, origin/HEAD) chore(release): 1.0.0
+* 8ec11f6 Document complete blank page root cause and all fixes
+* 9f9c940 Add comprehensive error handling and loading states
+* 4d5c673 Critical fix: Allow app to render without Supabase data
+* 587ab6c Add blank page fix documentation
+* 86e1c71 Fix blank page issue - correct favicon paths and add favicon.svg
+* e611ca7 Add GitHub deployment status verification report
+* 228edae Fix build and TypeScript errors for GitHub deployment
+* f06fa27 Add merge conflict resolution documentation
+*   0c4d1bf Resolve merge conflict in README - combine Tech Stack formats
+|\  
+| * 546fed8 Update Tech Stack section with detailed versions
+* | a388209 Add detailed Tech Stack descriptions and Jest testing
+|/  
+*   946de78 Merge feature/local-hosting into main
+|\  
+| * a46126a (origin/feature/local-hosting) Add branch-specific notes to README
+* |   3b228e5 Merge feature/auth-flow into main
+|\ \  
+| * | 727f70c (origin/feature/auth-flow) Add branch-specific notes to README
+| |/  
+* |   d102f7b Merge feature/homepage-ui into main
+|\ \  
+| * | d4e0860 (origin/feature/homepage-ui) Add branch-specific notes to README
+* | | 8f7afbb Update .gitignore and CHANGELOG.md with comprehensive details
+* | | c40245f Update README.md with comprehensive project documentation
+|/ /  
+* / d39aed6 new branches uploaded
+|/  
+* ce123e6 Fix GitHub Pages deployment workflow
+* fe8616e Initial commit for GitHub Pages deployment

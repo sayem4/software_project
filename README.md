@@ -105,6 +105,14 @@ For GitHub Pages deployment, ensure your `build` output is served from the corre
 
 Remote repository: `https://github.com/sayem4/software_project.git`
 
+## Assignment report
+
+The Git workflow report for this repository (feature branches, merge conflict, undo/recovery, and tag `v1.0.0`) is in:
+
+- [`docs/Git_Workflow_Report.docx`](docs/Git_Workflow_Report.docx) — submission document
+- [`docs/Git_Workflow_Report.md`](docs/Git_Workflow_Report.md) — same content in Markdown
+- [`docs/git-evidence/`](docs/git-evidence/) — `git log`, `git branch -a`, `git tag -n`, and `git reflog` outputs and screenshots
+
 ## How to Contribute
 
 1. Create a new branch

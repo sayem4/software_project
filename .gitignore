@@ -47,3 +47,6 @@ coverage/
 
 # Production
 out/
+
+# Local report build tools
+docs/_build/

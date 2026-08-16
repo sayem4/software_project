@@ -1,0 +1,8 @@
+* main
+  practice/undo-recovery
+  remotes/fork/main
+  remotes/origin/HEAD -> origin/main
+  remotes/origin/feature/auth-flow
+  remotes/origin/feature/homepage-ui
+  remotes/origin/feature/local-hosting
+  remotes/origin/main
